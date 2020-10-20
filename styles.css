@@ -1,3 +1,17 @@
+nav {
+	width: 20%;
+	min-width: 10em;
+	position: fixed;
+	top: 10em;
+}
+
 .content {
-	
+	min-width: 60em;
+	width: 70%;
+	padding: 1em;
+	margin-left: 20%;
+}
+
+h1, h2, h3 {
+	text-align: center;
 }
